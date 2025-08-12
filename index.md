@@ -1,4 +1,5 @@
-# Documentation to install vipre using product key already purchased for new users.
+# How to Install VIPRE Using Your Product Key or Activation Code for Lifetime Antivirus Protection
 
-My first project, i am so happy. Yippie
+Valuable information for the users.
+
 
